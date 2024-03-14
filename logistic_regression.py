@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""linear_regression
+"""logistic_regression
 # this is logistic regression implementation in numpy and pytorch
 # for simplicity, this is only single variable regression
 """
