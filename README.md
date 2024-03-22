@@ -1,6 +1,6 @@
 # machine_learning_implementation
 
-Machine learning implementation from scratch, for learning and teaching purpose.
+Machine learning implementation from scratch, for learning and research purpose.
 
 * Linear regression
 
