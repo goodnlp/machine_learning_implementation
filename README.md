@@ -1,4 +1,23 @@
-# machine_learning_implementation
+# Learn AI by building it !
+
+我一直认为，学习AI最有效的方法就是从头建造AI。
+
+AI是一个复杂的事物。仅仅通过阅读和理论学习是无法真正理解某个复杂事物的, 只能说出一些理论或者名词，也只是停留在表面上的认识。只有通过亲自构建和操作，才能发现其中的细节和挑战，从而获得深刻的理解。
+
+一个人从零开始创建某个事物的过程，他可以对这个事物的原理、构造、运行方式等有全面而深入的理解。
+
+通过创建，学习者可以验证自己的理解，发现知识盲点，并不断改进。
+
+本教程通过实现当今AI模型的基本构造来学习并理解AI。当今AI模型主要是基于神经网络，神经网络说起来优点玄乎，其实是对一组输入（用向量表示）进行一次或者多次非线性变化后然后给一个输出。
+
+因此，第一步我们需要学习线性变化，也就是线性回归；线性变化的结果加一个活化函数然后给一个输出，那就是逻辑回归；如果多个【线性变化+活化函数】的操作依次连接，那就形成了神经网络的结构。
+
+具体来说，本教程分别用numpy和pytorch实现了线性回归，逻辑回归，神经网络。
+
+用numpy实现，可以非常清楚的展现各个模型的原理的运行方式。
+
+用pytorch实现，可以了解用现成的工具可以高效的上手机器学习模型，甚至调用GPU进行加速运算。
+
 
 Machine learning implementation from scratch, for learning and research purpose.
 
@@ -8,10 +27,3 @@ Machine learning implementation from scratch, for learning and research purpose.
 
 * Neural network
 
-* Decision tree (in progress)
-
-* boosting: Adaboost, Gradient boost, XGboost (plan)
-
-* bagging: Random forest (plan)
-
-* Support vector machine (plan)
